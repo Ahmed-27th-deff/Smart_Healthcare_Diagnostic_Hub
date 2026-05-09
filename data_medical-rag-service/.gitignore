@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+models/*.pkl
+models/*.joblib
+models/*.keras
+models/*.h5

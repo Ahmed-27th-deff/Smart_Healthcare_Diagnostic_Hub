@@ -1,0 +1,15 @@
+chromadb
+sentence-transformers
+rank-bm25
+pypdf
+numpy
+cryptography>=3.1
+python-dotenv
+gradio
+google-genai
+pillow
+joblib
+pandas
+# Optional DL backends: install the one matching your model if not already installed.
+# tensorflow
+# torch
